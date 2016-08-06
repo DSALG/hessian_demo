@@ -10,4 +10,6 @@ public interface HessianInter {
 
 	User delUser(Integer id,String name);
 	
+	
+	///sfsaaf
 }
